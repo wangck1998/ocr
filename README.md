@@ -1,4 +1,4 @@
-Follow (this passage)[./EPC-1993-110.pdf].
+Follow [this passage](./EPC-1993-110.pdf).
 
 Usage
 ------------
@@ -12,22 +12,22 @@ Example
 --------
 
 Source
-![](./10.ppm)
+![](./10.jpg)
 
 Global Thresholding
-![](./11.ppm)
+![](./11.jpg)
 
 Adaptive Thresholding
-![](./12.ppm)
+![](./12.jpg)
 
 ----------------
 
 Source
-![](./20.ppm)
+![](./20.jpg)
 
 Global Thresholding
-![](./21.ppm)
+![](./21.jpg)
 
 Adaptive Thresholding
-![](./22.ppm)
+![](./22.jpg)
 
