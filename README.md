@@ -12,22 +12,22 @@ Example
 --------
 
 Source
-![](./pic/10.jpg)
+![](./pic/10)
 
 Global Thresholding
-![](./pic/11.jpg)
+![](./pic/11)
 
 Adaptive Thresholding
-![](./pic/12.jpg)
+![](./pic/12)
 
 ----------------
 
 Source
-![](./pic/20.jpg)
+![](./pic/20)
 
 Global Thresholding
-![](./pic/21.jpg)
+![](./pic/21)
 
 Adaptive Thresholding
-![](./pic/22.jpg)
+![](./pic/22)
 
